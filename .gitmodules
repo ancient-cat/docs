@@ -1,0 +1,3 @@
+[submodule "package/ancient-love"]
+	path = package/ancient-love
+	url = https://github.com/ancient-cat/ancient-love
